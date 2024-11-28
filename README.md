@@ -1,6 +1,7 @@
-### HALF_ADDER_SUBTRACTOR
+### NAME: BALAJI J
+### Reg No:24901175
+### EXP NO :3: HALF_ADDER_SUBTRACTOR
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
 ### AIM:
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -48,13 +49,22 @@ Figure -02 HALF Subtractor
 
 
 ### PROGRAM:
+![Screenshot 2024-11-28 112533](https://github.com/user-attachments/assets/5f5691da-12fc-4706-a0ac-6f8f77b71690)
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+### RTL SCHEMATIC :
 
-Developed by: RegisterNumber:*/
+![Screenshot 2024-11-28 110651](https://github.com/user-attachments/assets/8b89a1a0-04d2-4490-a6ce-56fd3c6b04ad)
 
-### RTL :
+### OUTPUT/TIME DIAGRAM :
 
-**Output/TIMING Waveform**
+![Screenshot 2024-11-28 111131](https://github.com/user-attachments/assets/26bf0ada-8a2c-49c3-ab19-373e9f4b4b92)
 
 ### RESULT:
+
+Implementated-Half-Adder-and-Half Subtractor-circuit successfully.
+
+
+
+
+
+
